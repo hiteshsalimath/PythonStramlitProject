@@ -1,0 +1,57 @@
+match_id,venue,team_name_x,team_name_y,date,pred_team_x,pred_team_y,winning_team
+1254058,"MA Chidambaram Stadium, Chepauk, Chennai",Mumbai Indians,Royal Challengers Bangalore,04-09-2021,0.523842877,0.476157123,Royal Challengers Bangalore
+1254059,"Wankhede Stadium, Mumbai",Chennai Super Kings,Delhi Capitals,04-10-2021,0.362591037,0.637408963,Delhi Capitals
+1254060,"MA Chidambaram Stadium, Chepauk, Chennai",Sunrisers Hyderabad,Kolkata Knight Riders,04-11-2021,0.37489307,0.62510693,Kolkata Knight Riders
+1254061,"Wankhede Stadium, Mumbai",Punjab Kings,Rajasthan Royals,04-12-2021,0.399823174,0.600176826,Punjab Kings
+1254062,"MA Chidambaram Stadium, Chepauk, Chennai",Kolkata Knight Riders,Mumbai Indians,13-04-2021,0.337221302,0.662778698,Mumbai Indians
+1254063,"MA Chidambaram Stadium, Chepauk, Chennai",Sunrisers Hyderabad,Royal Challengers Bangalore,14-04-2021,0.333148443,0.666851557,Royal Challengers Bangalore
+1254064,"Wankhede Stadium, Mumbai",Delhi Capitals,Rajasthan Royals,15-04-2021,0.513513997,0.486486003,Rajasthan Royals
+1254065,"Wankhede Stadium, Mumbai",Chennai Super Kings,Punjab Kings,16-04-2021,0.400071188,0.599928812,Chennai Super Kings
+1254066,"MA Chidambaram Stadium, Chepauk, Chennai",Sunrisers Hyderabad,Mumbai Indians,17-04-2021,0.254088778,0.745911222,Mumbai Indians
+1254067,"MA Chidambaram Stadium, Chepauk, Chennai",Kolkata Knight Riders,Royal Challengers Bangalore,18-04-2021,0.304388311,0.695611689,Royal Challengers Bangalore
+1254068,"Wankhede Stadium, Mumbai",Delhi Capitals,Punjab Kings,18-04-2021,0.647479869,0.352520131,Delhi Capitals
+1254069,"Wankhede Stadium, Mumbai",Chennai Super Kings,Rajasthan Royals,19-04-2021,0.696901589,0.303098411,Chennai Super Kings
+1254070,"MA Chidambaram Stadium, Chepauk, Chennai",Delhi Capitals,Mumbai Indians,20-04-2021,0.608072184,0.391927816,Delhi Capitals
+1254071,"MA Chidambaram Stadium, Chepauk, Chennai",Sunrisers Hyderabad,Punjab Kings,21-04-2021,0.368077825,0.631922175,Sunrisers Hyderabad
+1254072,"Wankhede Stadium, Mumbai",Chennai Super Kings,Kolkata Knight Riders,21-04-2021,0.625594052,0.374405948,Chennai Super Kings
+1254073,"Wankhede Stadium, Mumbai",Rajasthan Royals,Royal Challengers Bangalore,22-04-2021,0.236137442,0.763862558,Royal Challengers Bangalore
+1254074,"MA Chidambaram Stadium, Chepauk, Chennai",Punjab Kings,Mumbai Indians,23-04-2021,0.304971288,0.695028712,Punjab Kings
+1254075,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Rajasthan Royals,24-04-2021,0.388589353,0.611410647,Rajasthan Royals
+1254076,"Wankhede Stadium, Mumbai",Chennai Super Kings,Royal Challengers Bangalore,25-04-2021,0.385448492,0.614551508,Chennai Super Kings
+1254077,"MA Chidambaram Stadium, Chepauk, Chennai",Sunrisers Hyderabad,Delhi Capitals,25-04-2021,0.307289337,0.692710663,Tie
+1254078,"Narendra Modi Stadium, Ahmedabad",Punjab Kings,Kolkata Knight Riders,26-04-2021,0.392017708,0.607982292,Kolkata Knight Riders
+1254079,"Narendra Modi Stadium, Ahmedabad",Delhi Capitals,Royal Challengers Bangalore,27-04-2021,0.36784298,0.63215702,Royal Challengers Bangalore
+1254080,"Arun Jaitley Stadium, Delhi",Chennai Super Kings,Sunrisers Hyderabad,28-04-2021,0.663131284,0.336868716,Chennai Super Kings
+1254081,"Arun Jaitley Stadium, Delhi",Mumbai Indians,Rajasthan Royals,29-04-2021,0.685653439,0.314346561,Mumbai Indians
+1254082,"Narendra Modi Stadium, Ahmedabad",Delhi Capitals,Kolkata Knight Riders,29-04-2021,0.698447731,0.301552269,Delhi Capitals
+1254083,"Narendra Modi Stadium, Ahmedabad",Punjab Kings,Royal Challengers Bangalore,30-04-2021,0.296376903,0.703623097,Punjab Kings
+1254084,Arun Jaitley Stadium,Chennai Super Kings,Mumbai Indians,05-01-2021,0.296461095,0.703538905,To be Played
+1254085,Arun Jaitley Stadium,Sunrisers Hyderabad,Rajasthan Royals,05-02-2021,0.43877764,0.56122236,To be Played
+1254086,"Narendra Modi Stadium, Ahmedabad",Delhi Capitals,Punjab Kings,05-02-2021,0.373868237,0.626131763,To be Played
+1254087,"Narendra Modi Stadium, Ahmedabad",Kolkata Knight Riders,Royal Challengers Bangalore,05-03-2021,0.368696472,0.631303528,To be Played
+1254088,Arun Jaitley Stadium,Sunrisers Hyderabad,Mumbai Indians,05-04-2021,0.325161823,0.674838177,To be Played
+1254089,Arun Jaitley Stadium,Chennai Super Kings,Rajasthan Royals,05-05-2021,0.495843843,0.504156157,To be Played
+1254090,"Narendra Modi Stadium, Ahmedabad",Punjab Kings,Royal Challengers Bangalore,05-06-2021,0.377771004,0.622228996,To be Played
+1254091,Arun Jaitley Stadium,Chennai Super Kings,Sunrisers Hyderabad,05-07-2021,0.409346091,0.590653909,To be Played
+1254092,"Narendra Modi Stadium, Ahmedabad",Delhi Capitals,Kolkata Knight Riders,05-08-2021,0.364164822,0.635835178,To be Played
+1254093,Arun Jaitley Stadium,Mumbai Indians,Rajasthan Royals,05-08-2021,0.500474985,0.499525015,To be Played
+1254094,M Chinnaswamy Stadium,Chennai Super Kings,Punjab Kings,05-09-2021,0.41247719,0.58752281,To be Played
+1254095,Eden Gardens,Sunrisers Hyderabad,Royal Challengers Bangalore,05-09-2021,0.400072329,0.599927671,To be Played
+1254096,M Chinnaswamy Stadium,Kolkata Knight Riders,Mumbai Indians,05-10-2021,0.349583577,0.650416423,To be Played
+1254097,Eden Gardens,Delhi Capitals,Rajasthan Royals,05-11-2021,0.511640556,0.488359444,To be Played
+1254098,M Chinnaswamy Stadium,Chennai Super Kings,Kolkata Knight Riders,05-12-2021,0.395576599,0.604423401,To be Played
+1254099,M Chinnaswamy Stadium,Punjab Kings,Mumbai Indians,13-05-2021,0.304971288,0.695028712,To be Played
+1254100,Eden Gardens,Sunrisers Hyderabad,Rajasthan Royals,13-05-2021,0.422274565,0.577725435,To be Played
+1254101,Eden Gardens,Delhi Capitals,Royal Challengers Bangalore,14-05-2021,0.424914395,0.575085605,To be Played
+1254102,M Chinnaswamy Stadium,Punjab Kings,Kolkata Knight Riders,15-05-2021,0.388160385,0.611839615,To be Played
+1254103,Eden Gardens,Rajasthan Royals,Royal Challengers Bangalore,16-05-2021,0.362732243,0.637267757,To be Played
+1254104,M Chinnaswamy Stadium,Chennai Super Kings,Mumbai Indians,16-05-2021,0.2959275,0.7040725,To be Played
+1254105,Eden Gardens,Sunrisers Hyderabad,Delhi Capitals,17-05-2021,0.307289337,0.692710663,To be Played
+1254106,M Chinnaswamy Stadium,Kolkata Knight Riders,Rajasthan Royals,18-05-2021,0.433149539,0.566850461,To be Played
+1254107,M Chinnaswamy Stadium,Sunrisers Hyderabad,Punjab Kings,19-05-2021,0.359184663,0.640815337,To be Played
+1254108,Eden Gardens,Mumbai Indians,Royal Challengers Bangalore,20-05-2021,0.547152766,0.452847234,To be Played
+1254109,M Chinnaswamy Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,21-05-2021,0.360346976,0.639653024,To be Played
+1254110,Eden Gardens,Chennai Super Kings,Delhi Capitals,21-05-2021,0.351936781,0.648063219,To be Played
+1254111,M Chinnaswamy Stadium,Punjab Kings,Rajasthan Royals,22-05-2021,0.404170479,0.595829521,To be Played
+1254112,Eden Gardens,Delhi Capitals,Mumbai Indians,23-05-2021,0.328435832,0.671564168,To be Played
+1254113,Eden Gardens,Chennai Super Kings,Royal Challengers Bangalore,23-05-2021,0.380906355,0.619093645,To be Played

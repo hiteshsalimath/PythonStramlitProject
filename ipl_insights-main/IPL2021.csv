@@ -1,0 +1,57 @@
+date,venue,home_team,away_team,venue_id
+09-04-2021 19:30,"MA Chidambaram Stadium, Chepauk, Chennai",Mumbai Indians,Royal Challengers Bangalore,17
+10-04-2021 19:30,"Wankhede Stadium, Mumbai",Chennai Super Kings,Delhi Capitals,34
+11-04-2021 19:30,"MA Chidambaram Stadium, Chepauk, Chennai",Sunrisers Hyderabad,Kolkata Knight Riders,17
+12-04-2021 19:30,"Wankhede Stadium, Mumbai",Rajasthan Royals,Punjab Kings,34
+13-04-2021 19:30,"MA Chidambaram Stadium, Chepauk, Chennai",Kolkata Knight Riders,Mumbai Indians,17
+14-04-2021 19:30,"MA Chidambaram Stadium, Chepauk, Chennai",Sunrisers Hyderabad,Royal Challengers Bangalore,17
+15-04-2021 19:30,"Wankhede Stadium, Mumbai",Rajasthan Royals,Delhi Capitals,34
+16-04-2021 19:30,"Wankhede Stadium, Mumbai",Punjab Kings,Chennai Super Kings,34
+17-04-2021 19:30,"MA Chidambaram Stadium, Chepauk, Chennai",Mumbai Indians,Sunrisers Hyderabad,17
+18-04-2021 15:30,"MA Chidambaram Stadium, Chepauk, Chennai",Royal Challengers Bangalore,Kolkata Knight Riders,17
+18-04-2021 19:30,"Wankhede Stadium, Mumbai",Delhi Capitals,Punjab Kings,34
+19-04-2021 19:30,"Wankhede Stadium, Mumbai",Chennai Super Kings,Rajasthan Royals,34
+20-04-2021 19:30,"MA Chidambaram Stadium, Chepauk, Chennai",Delhi Capitals,Mumbai Indians,17
+21-04-2021 15:30,"MA Chidambaram Stadium, Chepauk, Chennai",Punjab Kings,Sunrisers Hyderabad,17
+21-04-2021 19:30,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Chennai Super Kings,34
+22-04-2021 19:30,"Wankhede Stadium, Mumbai",Royal Challengers Bangalore,Rajasthan Royals,34
+23-04-2021 19:30,"MA Chidambaram Stadium, Chepauk, Chennai",Punjab Kings,Mumbai Indians,17
+24-04-2021 19:30,"Wankhede Stadium, Mumbai",Rajasthan Royals,Kolkata Knight Riders,34
+25-04-2021 15:30,"Wankhede Stadium, Mumbai",Chennai Super Kings,Royal Challengers Bangalore,34
+25-04-2021 19:30,"MA Chidambaram Stadium, Chepauk, Chennai",Sunrisers Hyderabad,Delhi Capitals,17
+26-04-2021 19:30,"Narendra Modi Stadium, Ahmedabad",Punjab Kings,Kolkata Knight Riders,35
+27-04-2021 19:30,"Narendra Modi Stadium, Ahmedabad",Delhi Capitals,Royal Challengers Bangalore,35
+28-04-2021 19:30,"Arun Jaitley Stadium, Delhi",Chennai Super Kings,Sunrisers Hyderabad,1
+29-04-2021 15:30,"Arun Jaitley Stadium, Delhi",Mumbai Indians,Rajasthan Royals,1
+29-04-2021 19:30,"Narendra Modi Stadium, Ahmedabad",Delhi Capitals,Kolkata Knight Riders,35
+30-04-2021 19:30,"Narendra Modi Stadium, Ahmedabad",Punjab Kings,Royal Challengers Bangalore,35
+01-05-2021 19:30,"Arun Jaitley Stadium, Delhi",Mumbai Indians,Chennai Super Kings,1
+02-05-2021 15:30,"Arun Jaitley Stadium, Delhi",Rajasthan Royals,Sunrisers Hyderabad,1
+02-05-2021 19:30,"Narendra Modi Stadium, Ahmedabad",Punjab Kings,Delhi Capitals,35
+03-05-2021 19:30,"Narendra Modi Stadium, Ahmedabad",Kolkata Knight Riders,Royal Challengers Bangalore,35
+04-05-2021 19:30,"Arun Jaitley Stadium, Delhi",Sunrisers Hyderabad,Mumbai Indians,1
+05-05-2021 19:30,"Arun Jaitley Stadium, Delhi",Rajasthan Royals,Chennai Super Kings,1
+06-05-2021 19:30,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bangalore,Punjab Kings,35
+07-05-2021 19:30,"Arun Jaitley Stadium, Delhi",Sunrisers Hyderabad,Chennai Super Kings,1
+08-05-2021 15:30,"Narendra Modi Stadium, Ahmedabad",Kolkata Knight Riders,Delhi Capitals,35
+08-05-2021 19:30,"Arun Jaitley Stadium, Delhi",Rajasthan Royals,Mumbai Indians,1
+09-05-2021 15:30,"M. Chinnaswamy Stadium, Bengaluru",Chennai Super Kings,Punjab Kings,16
+09-05-2021 19:30,"Eden Gardens, Kolkata",Royal Challengers Bangalore,Sunrisers Hyderabad,9
+10-05-2021 19:30,"M. Chinnaswamy Stadium, Bengaluru",Mumbai Indians,Kolkata Knight Riders,16
+11-05-2021 19:30,"Eden Gardens, Kolkata",Delhi Capitals,Rajasthan Royals,9
+12-05-2021 19:30,"M. Chinnaswamy Stadium, Bengaluru",Chennai Super Kings,Kolkata Knight Riders,16
+13-05-2021 15:30,"M. Chinnaswamy Stadium, Bengaluru",Mumbai Indians,Punjab Kings,16
+13-05-2021 19:30,"Eden Gardens, Kolkata",Sunrisers Hyderabad,Rajasthan Royals,9
+14-05-2021 19:30,"Eden Gardens, Kolkata",Royal Challengers Bangalore,Delhi Capitals,9
+15-05-2021 19:30,"M. Chinnaswamy Stadium, Bengaluru",Kolkata Knight Riders,Punjab Kings,16
+16-05-2021 15:30,"Eden Gardens, Kolkata",Rajasthan Royals,Royal Challengers Bangalore,9
+16-05-2021 19:30,"M. Chinnaswamy Stadium, Bengaluru",Chennai Super Kings,Mumbai Indians,16
+17-05-2021 19:30,"Eden Gardens, Kolkata",Delhi Capitals,Sunrisers Hyderabad,9
+18-05-2021 19:30,"M. Chinnaswamy Stadium, Bengaluru",Kolkata Knight Riders,Rajasthan Royals,16
+19-05-2021 19:30,"M. Chinnaswamy Stadium, Bengaluru",Sunrisers Hyderabad,Punjab Kings,16
+20-05-2021 19:30,"Eden Gardens, Kolkata",Royal Challengers Bangalore,Mumbai Indians,9
+21-05-2021 15:30,"M. Chinnaswamy Stadium, Bengaluru",Kolkata Knight Riders,Sunrisers Hyderabad,16
+21-05-2021 19:30,"Eden Gardens, Kolkata",Delhi Capitals,Chennai Super Kings,9
+22-05-2021 19:30,"M. Chinnaswamy Stadium, Bengaluru",Punjab Kings,Rajasthan Royals,16
+23-05-2021 15:30,"Eden Gardens, Kolkata",Mumbai Indians,Delhi Capitals,9
+23-05-2021 19:30,"Eden Gardens, Kolkata",Royal Challengers Bangalore,Chennai Super Kings,9
